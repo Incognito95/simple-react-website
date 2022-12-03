@@ -7,7 +7,7 @@ function Home() {
                     <br/> just like the one in previous versions of Bootstrap.
                     <br /> Click the button below to check out some of the examples
                 </p>
-                <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" className="btn btn-primary btn-lg" type="button" target="_blank">Go to Bootstrap</a>
+                <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" className="btn btn-primary btn-lg" type="button">Go to Bootstrap</a>
             </div>
         </div>
 
