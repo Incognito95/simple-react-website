@@ -18,57 +18,6 @@ a:hover {
   border-bottom: 1px solid #FABC5B;
 }
 
-/* ---- dark mode ---- */
-#light {
-  background-color: white;
-}
-
-#light #about-header {
-  color: black;
-}
-
-#dark {
-  background-color: black;
-  height: 100vh;
-}
-
-h1 {
-  color: white;
-}
-
-.switch-label, .switch {
-  margin-left: 10px;
-}
-
-#dark .contact-header {
-  color: white !important;
-}
-
-#light .switch label, .text-center, label {
-  color: black !important;
-}
-
-#dark label {
-  color: white !important;
-}
-
-#dark .switch label, p {
-  color: white;
-  margin-left: 10px;
-}
-
-#dark .navbar-text a, h1 {
-  color: white;
-}
-
-#dark .col, label {
-  color: white;
-}
-
-#dark {
-  background-color: black;
-}
-
 /* ---- media queries ---- */
 @media only screen and (max-width: 600px) {
   a:hover {
