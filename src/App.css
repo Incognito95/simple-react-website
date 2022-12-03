@@ -1,0 +1,82 @@
+.jumbotron-bg {
+  background-image: linear-gradient(rgba(0,0,0, 0.4), rgb(0,0,0,0.4)), url("../src/images/hero-image.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 60vh;
+}
+
+.jumbotron-header {
+  padding-top: 70px;
+  font-family: Mona-Sans;
+}
+
+::selection {
+  color: white;
+  background-color: lightblue;
+}
+
+a:hover {
+  border-bottom: 1px solid #FABC5B;
+}
+
+/* ---- dark mode ---- */
+#light {
+  background-color: white;
+}
+
+#light #about-header {
+  color: black;
+}
+
+#dark {
+  background-color: black;
+  height: 100vh;
+}
+
+h1 {
+  color: white;
+}
+
+.switch-label, .switch {
+  margin-left: 10px;
+}
+
+#dark .contact-header {
+  color: white !important;
+}
+
+#light .switch label, .text-center, label {
+  color: black !important;
+}
+
+#dark label {
+  color: white !important;
+}
+
+#dark .switch label, p {
+  color: white;
+  margin-left: 10px;
+}
+
+#dark .navbar-text a, h1 {
+  color: white;
+}
+
+#dark .col, label {
+  color: white;
+}
+
+#dark {
+  background-color: black;
+}
+
+/* ---- media queries ---- */
+@media only screen and (max-width: 600px) {
+  a:hover {
+    color: #296EFD !important;
+  }
+
+  #about-header, .about-paragraph {
+    padding: 20px 20px 0;
+  }
+}
