@@ -21,7 +21,7 @@ a:hover {
 /* ---- media queries ---- */
 @media only screen and (max-width: 600px) {
   a:hover {
-    color: #296EFD !important;
+    border-bottom: 1px solid #FABC5B;
   }
 
   #about-header, .about-paragraph {
