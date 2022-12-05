@@ -1,4 +1,11 @@
+import { useEffect } from "react";
+
 function Contact() {
+
+    useEffect(() => {
+        document.title = 'Contact';
+    }, []);
+
     return (
         <div className="mt-5">
             <form className="container" method="POST">

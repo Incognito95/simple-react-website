@@ -1,4 +1,12 @@
+import React, { useEffect } from 'react';
+
 function App() {
+
+    useEffect(() => {
+        document.title = 'About';
+    }, []);
+
+
     return (
         <div className="mt-5">
             <div className="container">

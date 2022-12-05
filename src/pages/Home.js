@@ -1,4 +1,11 @@
+import {useEffect} from "react";
+
 function Home() {
+
+    useEffect(() => {
+        document.title = 'Home';
+    }, []);
+
     return (
         <div className="p-5 mb-4 jumbotron-bg">
             <div className="container-fluid py-5 text-white">
