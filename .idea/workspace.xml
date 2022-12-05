@@ -32,7 +32,7 @@
     <setting file="file://$PROJECT_DIR$/src/pages/Gallery.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/pages/Home.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/reportWebVitals.js" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/scripts/dark-mode.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/scripts/script.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/setupTests.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -104,7 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670096809740</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="renamed js file from &quot;dark-mode&quot; to &quot;script.js&quot;">
+      <created>1670278521985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670278521985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="renamed js file from &quot;dark-mode&quot; to &quot;script.js&quot;">
+      <created>1670278533502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670278533502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +138,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed target" />
     <MESSAGE value="added page document title of each react page" />
-    <option name="LAST_COMMIT_MESSAGE" value="added page document title of each react page" />
+    <MESSAGE value="renamed js file from &quot;dark-mode&quot; to &quot;script.js&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed js file from &quot;dark-mode&quot; to &quot;script.js&quot;" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
