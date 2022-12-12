@@ -1,5 +1,6 @@
+/* ------ homepage ----- */
 .jumbotron-bg {
-  background-image: linear-gradient(rgba(0,0,0, 0.4), rgb(0,0,0,0.4)), url("../src/images/hero-image.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url("../src/images/hero-image.jpg");
   background-position: center;
   background-size: cover;
   height: 60vh;
@@ -9,13 +10,51 @@
   font-family: Mona-Sans;
 }
 
-::selection {
-  color: white;
-  background-color: lightblue;
+.nav-link:hover {
+  color: black !important;
 }
 
-a:hover {
-  border-bottom: 1px solid #FABC5B;
+.nav-link {
+  color: rgb(0 0 0 / 40%) !important;
+}
+
+.pushable {
+  background: #DAA521;
+  border-radius: 12px;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline-offset: 4px;
+}
+
+.front {
+  display: block;
+  padding: 12px 42px;
+  border-radius: 12px;
+  font-size: 1.25rem;
+  background: #FBD703;
+  color: white;
+  transform: translateY(-6px);
+}
+
+.card {
+  width: 25rem;
+  display: inline-block;
+  border: none;
+  padding: 30px 30px;
+  text-align: left;
+}
+
+.front:hover {
+  color: black;
+}
+
+.btn {
+  border: none;
+}
+
+.pushable:active .front {
+  transform: translateY(-2px);
 }
 
 /* ---- media queries ---- */
@@ -24,7 +63,12 @@ a:hover {
     border-bottom: 1px solid #FABC5B;
   }
 
-  #about-header, .about-paragraph {
+  #about-header,
+  .about-paragraph {
     padding: 20px 20px 0;
+  }
+
+  img {
+    display: inline-block;
   }
 }

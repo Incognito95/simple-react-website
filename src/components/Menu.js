@@ -1,5 +1,5 @@
 import {Nav, Navbar} from 'react-bootstrap';
-import logo from '../images/logo.gif';
+import logo from '../images/logo.png';
 
 function Menu() {
     return (
@@ -11,7 +11,7 @@ function Menu() {
                         <Nav className="me-auto">
                             <Nav.Link href="/">Home</Nav.Link>
                             <Nav.Link href="/about">About</Nav.Link>
-                            <Nav.Link href="/gallery">Gallery</Nav.Link>
+                            <Nav.Link href="/cases">Cases</Nav.Link>
                             <Nav.Link href="/contact">Contact</Nav.Link>
                         </Nav>
                     </Navbar.Text>
