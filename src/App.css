@@ -41,8 +41,12 @@
   width: 25rem;
   display: inline-block;
   border: none;
-  padding: 30px 30px;
+  padding: 30px;
   text-align: left;
+}
+
+.card-body {
+  padding: 0;
 }
 
 .front:hover {
