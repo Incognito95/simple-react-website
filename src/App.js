@@ -5,7 +5,7 @@ import { Route, Routes, BrowserRouter } from "react-router-dom";
 import Menu from './components/Menu';
 import Home from './pages/Home';
 import About from './pages/About';
-import Cases from './pages/Gallery';
+import Cases from './pages/Cases';
 import Contact from './pages/Contact';
 
 function App() {
