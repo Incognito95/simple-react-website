@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Cases from './pages/Cases';
 import Contact from './pages/Contact';
+import ErrorPage from './pages/ErrorPage';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
                     <Route path="about" element={<About/>} />
                     <Route path="cases" element={<Cases/>} />
                     <Route path="contact" element={<Contact/>} />
+                    <Route path="/*" element={<ErrorPage/>} />
                 </Routes>
             </BrowserRouter>
         </div>

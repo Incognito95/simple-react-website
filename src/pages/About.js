@@ -6,7 +6,6 @@ function App() {
         document.title = 'About';
     }, []);
 
-
     return (
         <div className="mt-5">
             <div className="container">

@@ -4,16 +4,91 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc410409-ad63-46bc-8e31-a4c982df5eb1" name="Changes" comment="updated modules">
+    <list default="true" id="bc410409-ad63-46bc-8e31-a4c982df5eb1" name="Changes" comment="removed gallery page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/1.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/2.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/3.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/4.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/io/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/io/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/io/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/io/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/io5/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/io5/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/io5/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/io5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/cjs/iconBase.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/cjs/iconBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/cjs/iconContext.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/cjs/iconContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/cjs/iconsManifest.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/cjs/iconsManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/cjs/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/cjs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/esm/iconBase.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/esm/iconBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/esm/iconContext.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/esm/iconContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/esm/iconsManifest.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/esm/iconsManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/esm/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/esm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/lib/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/md/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/md/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/md/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/md/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/ri/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/ri/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/ri/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/ri/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/rx/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/rx/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/rx/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/rx/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/si/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/si/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/si/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/si/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/sl/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/sl/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/sl/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/sl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/tb/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/tfi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/tfi/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/tfi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/tfi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/ti/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/ti/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/ti/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/ti/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/vsc/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/vsc/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/vsc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/vsc/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/wi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/wi/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/wi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-icons/wi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Cases.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Cases.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Gallery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/script/Slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670278932759</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="removed gallery page">
+      <created>1671142516745</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671142516745</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +278,8 @@
     <MESSAGE value="added page document title of each react page" />
     <MESSAGE value="renamed js file from &quot;dark-mode&quot; to &quot;script.js&quot;" />
     <MESSAGE value="updated workspace.xml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml file" />
+    <MESSAGE value="removed gallery page" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed gallery page" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
