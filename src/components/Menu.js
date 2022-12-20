@@ -4,7 +4,7 @@ import logo from '../images/logo.png';
 function Menu() {
     return (
         <Navbar>
-            <div className="container-fluid">
+            <div className="container-fluid" id="menu">
                 <Navbar.Brand><img src={logo} alt="" width="70"/></Navbar.Brand>
                 <Navbar.Collapse className="justify-content-end">
                     <Navbar.Text>
