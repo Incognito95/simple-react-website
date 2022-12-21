@@ -152,8 +152,6 @@
 
 .item .item-wrap>.work-info span {
   font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 0.2rem;
 }
 
 .item .item-wrap:hover {
@@ -213,7 +211,6 @@
   border: 1px solid #000;
   padding: 10px 15px;
   font-size: 12px;
-  text-transform: uppercase;
   color: #000;
   transition: 0.2s all ease;
   font-weight: 700;
