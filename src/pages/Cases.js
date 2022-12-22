@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import Records from '../data/data.json';
 
 function Cases() {
@@ -25,7 +25,7 @@ function Cases() {
                   <h3>{record.name}</h3>
                   <span>{record.category}</span>
                 </div>
-                <img class="img-fluid" src={record.image} />
+                <img class="img-fluid" src={record.image} alt="" />
               </a>
             </div>
                 )
