@@ -5,12 +5,6 @@ function ErrorPage() {
     useEffect(() => {
         document.title = '404';
     }, []);
-
-    // hide menu when showing the error page
-    // const menu = document.getElementById('menu');
-    // if (div.className === menu) {
-    //     div.style.display = 'none';
-    // }
     
     return (
     <div className="error-bg-color">
