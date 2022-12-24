@@ -19,12 +19,13 @@ function App() {
 
     return (
         <div className="App">
-        {showError ? (
+        {/* {showError ? (
         // Render the error page
-        <Menu />
+            <Menu />
         ) : (
             <ErrorPage />
-        )}
+        )} */}
+        <Menu />
             <BrowserRouter>
                 <Routes>
                     <Route path="/" element={<Home/>} />
