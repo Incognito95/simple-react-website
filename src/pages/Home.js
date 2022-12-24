@@ -1,4 +1,4 @@
-import {useEffect} from "react";
+import { useEffect } from "react";
 import iphones from '../images/iphones.png';
 import marcell_dane from '../images/marcell_dane.png';
 import skateboard from '../images/skateboard.jpeg';

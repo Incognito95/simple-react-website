@@ -1,5 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import { useEffect, useState } from 'react';
 import { Route, Routes, BrowserRouter } from "react-router-dom";
 
 import Menu from './components/Menu';
@@ -10,10 +11,20 @@ import Contact from './pages/Contact';
 import ErrorPage from './pages/ErrorPage';
 
 function App() {
+    const [showError] = useState(false);
+
+    useEffect(() => {
+        document.title = 'Home';
+    }, []);
 
     return (
         <div className="App">
-            <Menu />
+        {showError ? (
+        // Render the error page
+        <Menu />
+        ) : (
+            <ErrorPage />
+        )}
             <BrowserRouter>
                 <Routes>
                     <Route path="/" element={<Home/>} />

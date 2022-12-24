@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 
-function App() {
+function About() {
 
     useEffect(() => {
         document.title = 'About';
@@ -25,4 +25,4 @@ function App() {
     )
 }
 
-export default App;
+export default About;
