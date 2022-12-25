@@ -373,6 +373,11 @@
   img {
     display: inline-block;
   }
+
+  h3 {
+    padding-top: 30px;
+  }
+
 }
 
 /* ------ 404 page ----- */

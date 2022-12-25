@@ -4,46 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc410409-ad63-46bc-8e31-a4c982df5eb1" name="Changes" comment="commented out the if statement in App.js file">
-      <change afterPath="$PROJECT_DIR$/public/cases-images/amazon.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cases-images/build_indoo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cases-images/cocooil.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cases-images/kitchen_sink.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cases-images/nike.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Amazon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/BoxedWater.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/BuildIndoo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/CocoOil.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/KitchenSink.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Nike.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/hide-navigation.js" afterDir="false" />
+    <list default="true" id="bc410409-ad63-46bc-8e31-a4c982df5eb1" name="Changes" comment="removed hide function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/1.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/11.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/11.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/12.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/12.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/15.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/15.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/18.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/18.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/19.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/19.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/20.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/20.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/21.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/21.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/22.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/22.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/23.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/23.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/24.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/24.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/25.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/25.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/26.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/26.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/27.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/27.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/8.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/CaseDetail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Cases.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Cases.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Amazon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Amazon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/BoxedWater.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BoxedWater.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/BuildIndoo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BuildIndoo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CocoOil.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CocoOil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/KitchenSink.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/KitchenSink.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +161,7 @@
       <workItem from="1671927526507" duration="31000" />
       <workItem from="1671927569488" duration="74000" />
       <workItem from="1671927655546" duration="2113000" />
-      <workItem from="1671929983285" duration="8020000" />
+      <workItem from="1671929983285" duration="9639000" />
     </task>
     <task id="LOCAL-00001" summary="removed target">
       <created>1670096809740</created>
@@ -229,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671919752586</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="removed hide function">
+      <created>1671981977089</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671981977089</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +237,8 @@
     <MESSAGE value="updated workspace.xml file" />
     <MESSAGE value="removed gallery page" />
     <MESSAGE value="commented out the if statement in App.js file" />
-    <option name="LAST_COMMIT_MESSAGE" value="commented out the if statement in App.js file" />
+    <MESSAGE value="removed hide function" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed hide function" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>

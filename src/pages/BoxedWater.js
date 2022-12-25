@@ -21,7 +21,7 @@ function BoxedWater () {
                 <div className="site-section pb-0">
                     <div className="container">
                         <div className="row align-items-stretch">
-                            <div className="col-md-8" data-aos="fade-up">
+                            <div className="col-md-6" data-aos="fade-up">
                                 <img className="img-fluid" src="cases-images/boxed_water.jpg" alt=""/>
                             </div>
                             <div className="col-md-3 ml-auto" data-aos="fade-up" data-aos-delay="100">
