@@ -1,5 +1,6 @@
 {
-    "editor.fontSize": 12,
+    "editor.fontSize": 13,
     "editor.fontFamily": "consolas",
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "editor.fontLigatures": true
 }

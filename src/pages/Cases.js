@@ -1,5 +1,4 @@
 import { useEffect } from "react";
-import Records from '../data/data.json';
 
 function Cases() {
 
@@ -9,28 +8,84 @@ function Cases() {
 
     return (
       <section class="section site-portfolio">
+
         <div class="container">
-          <div class="row mb-3 align-items-center">
-            <div class="col-md-12 col-lg-6 mb-5 mb-lg-0" data-aos="fade-up">
-              <h2>Cases</h2>
+
+            <h2 className="cases-header">Cases</h2>
+
+          <div id="portfolio-grid" className="mt-3" data-aos="fade-up" data-aos-delay="200">
+
+            <div class="item web mb-4">
+              <a href="boxed-water" target="_blank" class="item-wrap fancybox">
+                  <div class="work-info">
+                  <h3>Boxed Water</h3>
+                  <span>Design</span>
+                </div>
+                <img class="img-fluid" src="cases-images/boxed_water.jpg" alt="" />
+              </a>
             </div>
           </div>
 
-          <div id="portfolio-grid" class="row no-gutter" data-aos="fade-up" data-aos-delay="200">
-          {Records.map(record => {
-                return (
-            <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
-              <a href="work-single.html" class="item-wrap fancybox">
-                  <div class="work-info">
-                  <h3>{record.name}</h3>
-                  <span>{record.category}</span>
+            <div id="portfolio-grid" className="" data-aos="fade-up" data-aos-delay="200">
+                <div className="item web mb-4">
+                    <a href="build-indoo" target="_blank" className="item-wrap fancybox">
+                        <div className="work-info">
+                            <h3>Build Indoo</h3>
+                            <span>Photography</span>
+                        </div>
+                        <img className="img-fluid" src="cases-images/build_indoo.jpeg" alt=""/>
+                    </a>
                 </div>
-                <img class="img-fluid" src={record.image} alt="" />
-              </a>
             </div>
-                )
-              })}
-          </div>
+
+            <div id="portfolio-grid" className="" data-aos="fade-up" data-aos-delay="200">
+                <div className="item web mb-4">
+                    <a href="coco-oil" target="_blank" className="item-wrap fancybox">
+                        <div className="work-info">
+                            <h3>Coco Oil</h3>
+                            <span>Branding</span>
+                        </div>
+                        <img className="img-fluid" src="cases-images/cocooil.jpg" alt=""/>
+                    </a>
+                </div>
+            </div>
+
+            <div id="portfolio-grid" className="" data-aos="fade-up" data-aos-delay="200">
+                <div className="item web mb-4">
+                    <a href="nike" target="_blank" className="item-wrap fancybox">
+                        <div className="work-info">
+                            <h3>Nike</h3>
+                            <span>Design</span>
+                        </div>
+                        <img className="img-fluid" src="cases-images/Nike.jpg" alt=""/>
+                    </a>
+                </div>
+            </div>
+
+            <div id="portfolio-grid" className="" data-aos="fade-up" data-aos-delay="200">
+                <div className="item web mb-4">
+                    <a href="kitchen-sink" target="_blank" className="item-wrap fancybox">
+                        <div className="work-info">
+                            <h3>Kitchen Sink</h3>
+                            <span>Photography</span>
+                        </div>
+                        <img className="img-fluid" src="cases-images/kitchen_sink.jpeg" alt=""/>
+                    </a>
+                </div>
+            </div>
+
+            <div id="portfolio-grid" className="" data-aos="fade-up" data-aos-delay="200">
+                <div className="item web mb-4">
+                    <a href="amazon" target="_blank" className="item-wrap fancybox">
+                        <div className="work-info">
+                            <h3>Amazon</h3>
+                            <span>Brand Design</span>
+                        </div>
+                        <img className="img-fluid" src="cases-images/amazon.jpg" alt=""/>
+                    </a>
+                </div>
+            </div>
+
         </div>
       </section>
     );
