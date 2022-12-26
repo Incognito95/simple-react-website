@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Boxed Water",
+        "category": "Web",
+        "image": "/cases-images/boxed_water.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Build Indoo",
+        "category": "Photography",
+        "image": "/cases-images/build_indoo.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Coco Oil",
+        "category": "Branding",
+        "image": "/cases-images/cocooil.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Nike",
+        "category": "Design",
+        "image": "/cases-images/nike.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kitchen Sink",
+        "category": "Photography",
+        "image": "/cases-images/kitchen_sink.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Amazon",
+        "category": "Branding",
+        "image": "/cases-images/amazon.jpg"
+    }
+]
