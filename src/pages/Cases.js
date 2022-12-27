@@ -15,7 +15,7 @@ function Cases() {
         return (
             <div id="portfolio-grid" className="mt-3" data-aos="fade-up" data-aos-delay="200">
             <div class="item web mb-4">
-                <a href="boxed-water" target="_blank" class="item-wrap fancybox">
+                <a href={`/case-detail/${item.id}`} target="_blank" class="item-wrap fancybox">
                     <div class="work-info">
                     <h3>{item.name}</h3>
                     <span>{item.category}</span>
