@@ -17,6 +17,8 @@ function App() {
         document.title = 'Home';
     }, []);
 
+    // TODO: hide navigation on error page
+
     return (
         <div className="App">
         <Menu />
