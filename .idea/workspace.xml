@@ -6,6 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="bc410409-ad63-46bc-8e31-a4c982df5eb1" name="Changes" comment="updated the layout of the case detail page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack_" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/23.pack_" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/23.pack_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/24.pack_" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/24.pack_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/33.pack_" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/33.pack_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/8.pack_" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/8.pack_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CaseDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CaseDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cases.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Cases.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,29 +75,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ToolWindowCommit.ShowToolbar": "false",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "/Users/danielpedersen/Documents/simple-react-website/src/js",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/private/var/folders/nl/c2gdyd7n7vd29hn7s6tp_mq00000gn/T/AppTranslocation/D738E310-113E-4298-87F2-F90163E65613/d/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowCommit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/danielpedersen/Documents/simple-react-website/src/js&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/private/var/folders/nl/c2gdyd7n7vd29hn7s6tp_mq00000gn/T/AppTranslocation/D738E310-113E-4298-87F2-F90163E65613/d/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/js" />
@@ -148,6 +157,11 @@
       <workItem from="1671927569488" duration="74000" />
       <workItem from="1671927655546" duration="2113000" />
       <workItem from="1671929983285" duration="10659000" />
+      <workItem from="1672349828610" duration="31000" />
+      <workItem from="1672349870104" duration="170000" />
+      <workItem from="1672350056219" duration="44000" />
+      <workItem from="1672350115540" duration="50000" />
+      <workItem from="1672350180547" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="removed target">
       <created>1670096809740</created>
