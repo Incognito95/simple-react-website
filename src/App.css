@@ -162,10 +162,6 @@
   margin-bottom: 0;
 }
 
-.item .item-wrap>.work-info span {
-  font-size: 14px;
-}
-
 .item .item-wrap:hover {
   text-decoration: none;
 }
