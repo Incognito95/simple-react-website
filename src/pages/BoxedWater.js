@@ -1,23 +1,10 @@
-import {useEffect, useState} from "react";
-import { useParams } from "react-router-dom";
+import { useEffect } from "react";
+import boxed_water from '../images/cases-images/boxed_water.jpg';
 
 function CaseDetail() {
 
     useEffect(() => {
-        document.title = 'Case Detail';
-    }, []);
-
-    const [data, setBackendData] = useState([]);
-
-    // show case detail
-    useEffect(() => {
-        fetch("http://localhost:3000/case-detail/1").then(
-            response => response.json()
-        ).then(
-            data => {
-                setBackendData(data);
-            }
-        )
+        document.title = 'Boxed Water';
     }, []);
 
     return (
@@ -25,8 +12,7 @@ function CaseDetail() {
             <div class="container">
                 <div class="row mb-4 align-items-center">
                     <div class="col-md-6" data-aos="fade-up">
-                    {/*<h2>{data[0].name}</h2>*/}
-                    {/*<p>{data[0].description}</p>*/}
+                    <h2>Boxed Water</h2>
                     </div>
                 </div>
             </div>
@@ -35,15 +21,17 @@ function CaseDetail() {
                 <div class="container">
                     <div class="row align-items-stretch">
                     <div class="col-md-8" data-aos="fade-up">
-                        <img className="img-fluid" src={`/cases-images/` + data.image} alt="" />
+                        <img className="img-fluid" src={boxed_water} alt="" />
                     </div>
                     <div class="col-md-3 ml-auto" data-aos="fade-up" data-aos-delay="100">
                         <div class="sticky-content">
-                        <h3 class="h3">{data.name}</h3>
-                        <p class="mb-4"><span class="text-muted">{data.category}</span></p>
+                        <h3 class="h3">Boxed Water</h3>
+                        <p class="mb-4"><span class="text-muted">Design</span></p>
 
                         <div class="mb-5">
-                            <p>{data.description}</p>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            </p>
                         </div>
 
                         <h4 class="h4 mb-3">What I did</h4>
