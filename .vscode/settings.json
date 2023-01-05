@@ -1,6 +1,6 @@
 {
     "editor.fontSize": 13,
-    "editor.fontFamily": "firacode",
+    "editor.fontFamily": "consolas",
     "git.ignoreLimitWarning": true,
     "editor.fontLigatures": true
 }
