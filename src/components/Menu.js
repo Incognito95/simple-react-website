@@ -7,7 +7,7 @@ function Menu() {
        <div id="nav">
            <Navbar>
                <div className="container-fluid" id="menu">
-                   <Navbar.Brand><img src={logo} alt="" width="70"/></Navbar.Brand>
+                   <Navbar.Brand><a href="/"><img src={logo} alt="" width="70"/></a></Navbar.Brand>
                    <Navbar.Collapse className="justify-content-end">
                        <Navbar.Text>
                            <Nav className="me-auto">
