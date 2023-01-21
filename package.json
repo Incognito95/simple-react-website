@@ -16,7 +16,7 @@
     "express-formidable": "^1.2.0",
     "lightgallery": "^2.7.0",
     "react": "^18.2.0",
-    "react-bootstrap": "^2.6.0",
+    "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",
     "react-glidejs": "^1.0.8",
     "react-router-dom": "^6.4.4",
